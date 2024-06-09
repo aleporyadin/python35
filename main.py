@@ -883,11 +883,10 @@ import os
 #
 # base_directory = input("Enter base directory: ")
 # days_old = int(input("Enter days old count: "))
-# archive_directory = input("Enter archive directory: ")
 #
 # if os.path.exists(base_directory) and os.path.isdir(base_directory):
 #     print("Contains directory: ")
 #     archive_old_files(base_directory, days_old, archive_directory)
 # else:
 #     print("Incorrect path!")
-
+print("Hello")
